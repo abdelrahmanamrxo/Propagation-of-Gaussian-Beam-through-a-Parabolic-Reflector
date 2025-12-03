@@ -1,1 +1,1 @@
-# Propagation-of-Gaussian-Beam-through-a-Parabolic-Reflector
+# Propagation of Gaussian Beam through a Parabolic Reflector
